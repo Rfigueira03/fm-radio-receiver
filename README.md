@@ -17,8 +17,8 @@ The receiver was designed, assembled and experimentally validated in laboratory 
 
 report/       Final report
 
-images/       Photos and schematics
-
 circuit/      Circuit files
+
+video/        Video showing the prototype
 
 docs/         Additional documentation
